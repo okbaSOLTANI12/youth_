@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'okba ',
+  title: 'انخراطات دار الشباب سليمي إبراهيم  ',
   description: 'Created with okba soltani',
   generator: 'okba',
 }
